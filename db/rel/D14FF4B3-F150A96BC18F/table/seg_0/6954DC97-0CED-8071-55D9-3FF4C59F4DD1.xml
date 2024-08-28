@@ -22,8 +22,11 @@
 <createdBy>USER</createdBy>
 <createdTime>2024-08-27 07:38:19 UTC</createdTime>
 <ownerDesignName>db</ownerDesignName>
-<use>0</use>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 </columns>

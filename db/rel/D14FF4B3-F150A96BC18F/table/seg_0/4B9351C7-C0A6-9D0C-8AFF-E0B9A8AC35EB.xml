@@ -1,0 +1,44 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="4B9351C7-C0A6-9D0C-8AFF-E0B9A8AC35EB" name="reply">
+<createdBy>USER</createdBy>
+<createdTime>2024-08-28 08:06:21 UTC</createdTime>
+<ownerDesignName>db</ownerDesignName>
+<ordsAlias>table_9</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="rename" id="16EE383E-5317-C091-2E45-759821DA7E92">
+<createdBy>USER</createdBy>
+<createdTime>2024-08-28 08:06:47 UTC</createdTime>
+<ownerDesignName>db</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="repwd" id="207B77DC-C9A5-AF86-2600-3928A3AD11A7">
+<createdBy>USER</createdBy>
+<createdTime>2024-08-28 08:07:56 UTC</createdTime>
+<ownerDesignName>db</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="recon" id="F5B4AFB4-C076-07A1-17BC-9CC39D8A1C8E">
+<createdBy>USER</createdBy>
+<createdTime>2024-08-28 08:07:56 UTC</createdTime>
+<ownerDesignName>db</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+</Table>
